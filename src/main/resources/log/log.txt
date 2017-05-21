@@ -1,391 +1,783 @@
 =========================================================
 Graph name: zeroin.i.2.col.txt Chrome number: 30 Count of vertices: 211
 Bit Algorithm
-Time: 11968829 Chrome number: 30 
-Time: 2078919 Chrome number: 30 
-Time: 5648546 Chrome number: 30 
-Time: 2049899 Chrome number: 30 
-Time: 697928 Chrome number: 30 
-Time: 1300298 Chrome number: 30 
-Time: 1732079 Chrome number: 30 
-Time: 570518 Chrome number: 30 
-Time: 1202617 Chrome number: 30 
-Time: 1314809 Chrome number: 30 
-Time: 1505925 Chrome number: 30 
-Time: 1170410 Chrome number: 30 
-Time: 1173949 Chrome number: 30 
-Time: 1869400 Chrome number: 30 
-Time: 1187752 Chrome number: 30 
-Time: 1214295 Chrome number: 30 
-Time: 1484336 Chrome number: 30 
-Time: 1195892 Chrome number: 30 
-Time: 1168994 Chrome number: 30 
-Time: 1165808 Chrome number: 30 
-Average time: 2085060.15 Average color: 30.0
+Time: 9100317 Chrome number: 30 
+Time: 1743759 Chrome number: 30 
+Time: 2355330 Chrome number: 30 
+Time: 2147934 Chrome number: 30 
+Time: 652980 Chrome number: 30 
+Time: 555298 Chrome number: 30 
+Time: 605555 Chrome number: 30 
+Time: 533356 Chrome number: 30 
+Time: 510705 Chrome number: 30 
+Time: 569102 Chrome number: 30 
+Time: 798087 Chrome number: 30 
+Time: 1305960 Chrome number: 30 
+Time: 2168461 Chrome number: 30 
+Time: 1240485 Chrome number: 30 
+Time: 1219605 Chrome number: 30 
+Time: 5645360 Chrome number: 30 
+Time: 1223143 Chrome number: 30 
+Time: 1900545 Chrome number: 30 
+Time: 8808688 Chrome number: 30 
+Time: 1542378 Chrome number: 30 
+Average time: 2231352.4 Average color: 30.0
 
 Greedy Algorithm
-Time: 3398683 Chrome number: 60 
-Time: 649441 Chrome number: 66 
-Time: 791009 Chrome number: 62 
-Time: 476729 Chrome number: 66 
-Time: 416917 Chrome number: 64 
-Time: 318881 Chrome number: 59 
-Time: 305432 Chrome number: 67 
-Time: 297292 Chrome number: 61 
-Time: 296584 Chrome number: 59 
-Time: 306140 Chrome number: 66 
-Time: 304724 Chrome number: 58 
-Time: 306848 Chrome number: 59 
-Time: 328791 Chrome number: 60 
-Time: 215536 Chrome number: 64 
-Time: 185807 Chrome number: 64 
-Time: 178729 Chrome number: 64 
-Time: 168465 Chrome number: 62 
-Time: 158555 Chrome number: 61 
-Time: 164218 Chrome number: 58 
-Time: 160680 Chrome number: 62 
-Average time: 471473.05 Average color: 62.1
+Time: 3145631 Chrome number: 62 
+Time: 759156 Chrome number: 62 
+Time: 698990 Chrome number: 61 
+Time: 560962 Chrome number: 57 
+Time: 392850 Chrome number: 61 
+Time: 324544 Chrome number: 61 
+Time: 344363 Chrome number: 56 
+Time: 292691 Chrome number: 60 
+Time: 304016 Chrome number: 67 
+Time: 1671559 Chrome number: 66 
+Time: 181914 Chrome number: 58 
+Time: 182268 Chrome number: 55 
+Time: 178376 Chrome number: 64 
+Time: 173067 Chrome number: 65 
+Time: 169527 Chrome number: 62 
+Time: 173066 Chrome number: 59 
+Time: 165634 Chrome number: 67 
+Time: 173067 Chrome number: 64 
+Time: 176960 Chrome number: 60 
+Time: 170589 Chrome number: 62 
+Average time: 511961.5 Average color: 61.45
 =========================================================
 
 =========================================================
 Graph name: r250.5.col.txt Chrome number: 65 Count of vertices: 250
 Bit Algorithm
-Time: 267208 Chrome number: 79 
-Time: 231463 Chrome number: 79 
-Time: 264378 Chrome number: 79 
-Time: 234294 Chrome number: 79 
-Time: 2747473 Chrome number: 79 
-Time: 243851 Chrome number: 79 
-Time: 344717 Chrome number: 79 
-Time: 233586 Chrome number: 79 
-Time: 1496723 Chrome number: 79 
+Time: 247743 Chrome number: 79 
+Time: 232170 Chrome number: 79 
+Time: 251990 Chrome number: 79 
+Time: 242789 Chrome number: 79 
+Time: 220491 Chrome number: 79 
+Time: 225800 Chrome number: 79 
+Time: 261192 Chrome number: 79 
+Time: 218721 Chrome number: 79 
 Time: 251636 Chrome number: 79 
-Time: 256238 Chrome number: 79 
-Time: 224739 Chrome number: 79 
-Time: 221907 Chrome number: 79 
-Time: 260130 Chrome number: 79 
-Time: 295169 Chrome number: 79 
-Time: 237480 Chrome number: 79 
-Time: 219076 Chrome number: 79 
+Time: 228985 Chrome number: 79 
+Time: 231463 Chrome number: 79 
+Time: 233940 Chrome number: 79 
+Time: 227216 Chrome number: 79 
+Time: 218722 Chrome number: 79 
+Time: 222261 Chrome number: 79 
+Time: 344363 Chrome number: 79 
+Time: 245974 Chrome number: 79 
 Time: 229693 Chrome number: 79 
-Time: 226154 Chrome number: 79 
-Time: 216952 Chrome number: 79 
-Average time: 435143.35 Average color: 79.0
+Time: 256592 Chrome number: 79 
+Time: 213767 Chrome number: 79 
+Average time: 240275.4 Average color: 79.0
 
 Greedy Algorithm
-Time: 204566 Chrome number: 153 
-Time: 190762 Chrome number: 149 
-Time: 187931 Chrome number: 154 
-Time: 178021 Chrome number: 158 
-Time: 212705 Chrome number: 150 
-Time: 207042 Chrome number: 157 
-Time: 183684 Chrome number: 149 
-Time: 204211 Chrome number: 149 
-Time: 183684 Chrome number: 161 
-Time: 202795 Chrome number: 152 
-Time: 182268 Chrome number: 155 
-Time: 205273 Chrome number: 148 
-Time: 240311 Chrome number: 153 
-Time: 214474 Chrome number: 147 
-Time: 182977 Chrome number: 158 
-Time: 186869 Chrome number: 151 
-Time: 182268 Chrome number: 140 
-Time: 244911 Chrome number: 157 
-Time: 390726 Chrome number: 152 
-Time: 188285 Chrome number: 147 
-Average time: 208688.15 Average color: 152.0
+Time: 197841 Chrome number: 148 
+Time: 196779 Chrome number: 153 
+Time: 197486 Chrome number: 145 
+Time: 192532 Chrome number: 153 
+Time: 181206 Chrome number: 154 
+Time: 199610 Chrome number: 148 
+Time: 179437 Chrome number: 158 
+Time: 187930 Chrome number: 153 
+Time: 1010085 Chrome number: 151 
+Time: 245973 Chrome number: 159 
+Time: 185453 Chrome number: 156 
+Time: 194655 Chrome number: 155 
+Time: 195009 Chrome number: 157 
+Time: 212351 Chrome number: 151 
+Time: 192532 Chrome number: 149 
+Time: 185808 Chrome number: 154 
+Time: 187931 Chrome number: 143 
+Time: 193594 Chrome number: 154 
+Time: 182269 Chrome number: 158 
+Time: 197840 Chrome number: 148 
+Average time: 235816.05 Average color: 152.35
+=========================================================
+
+=========================================================
+Graph name: r1000.5.col.txt Chrome number: 234 Count of vertices: 1000
+Bit Algorithm
+Time: 1372144 Chrome number: 275 
+Time: 1072020 Chrome number: 275 
+Time: 1073082 Chrome number: 275 
+Time: 1105289 Chrome number: 275 
+Time: 1183505 Chrome number: 275 
+Time: 1119092 Chrome number: 275 
+Time: 1221374 Chrome number: 275 
+Time: 1131832 Chrome number: 275 
+Time: 1253581 Chrome number: 275 
+Time: 1463455 Chrome number: 275 
+Time: 1917178 Chrome number: 275 
+Time: 1975929 Chrome number: 275 
+Time: 1942307 Chrome number: 275 
+Time: 1373559 Chrome number: 275 
+Time: 1359402 Chrome number: 275 
+Time: 1399396 Chrome number: 275 
+Time: 1447174 Chrome number: 275 
+Time: 1378514 Chrome number: 275 
+Time: 1180673 Chrome number: 275 
+Time: 1251811 Chrome number: 275 
+Average time: 1361065.85 Average color: 275.0
+
+Greedy Algorithm
+Time: 724472 Chrome number: 623 
+Time: 553175 Chrome number: 611 
+Time: 417978 Chrome number: 622 
+Time: 370907 Chrome number: 627 
+Time: 368783 Chrome number: 636 
+Time: 359935 Chrome number: 620 
+Time: 495133 Chrome number: 607 
+Time: 605202 Chrome number: 603 
+Time: 493717 Chrome number: 612 
+Time: 493363 Chrome number: 606 
+Time: 504688 Chrome number: 621 
+Time: 506458 Chrome number: 630 
+Time: 513890 Chrome number: 625 
+Time: 501504 Chrome number: 620 
+Time: 512120 Chrome number: 622 
+Time: 504689 Chrome number: 611 
+Time: 501149 Chrome number: 609 
+Time: 515660 Chrome number: 622 
+Time: 494779 Chrome number: 621 
+Time: 496548 Chrome number: 610 
+Average time: 496707.5 Average color: 617.9
 =========================================================
 
 =========================================================
 Graph name: le450_5d.col.txt Chrome number: 5 Count of vertices: 450
 Bit Algorithm
-Time: 1566445 Chrome number: 18 
-Time: 755971 Chrome number: 18 
-Time: 2196774 Chrome number: 18 
-Time: 830294 Chrome number: 18 
-Time: 4351433 Chrome number: 18 
-Time: 787116 Chrome number: 18 
-Time: 1347723 Chrome number: 18 
-Time: 9765685 Chrome number: 18 
-Time: 755617 Chrome number: 18 
-Time: 748185 Chrome number: 18 
-Time: 691558 Chrome number: 18 
-Time: 736151 Chrome number: 18 
-Time: 696159 Chrome number: 18 
-Time: 688018 Chrome number: 18 
-Time: 713855 Chrome number: 18 
-Time: 671738 Chrome number: 18 
-Time: 692973 Chrome number: 18 
-Time: 703591 Chrome number: 18 
-Time: 685895 Chrome number: 18 
-Time: 729781 Chrome number: 18 
-Average time: 1505748.1 Average color: 18.0
+Time: 308971 Chrome number: 18 
+Time: 307556 Chrome number: 18 
+Time: 309679 Chrome number: 18 
+Time: 300124 Chrome number: 18 
+Time: 338701 Chrome number: 18 
+Time: 303309 Chrome number: 18 
+Time: 296230 Chrome number: 18 
+Time: 436382 Chrome number: 18 
+Time: 411254 Chrome number: 18 
+Time: 361351 Chrome number: 18 
+Time: 305078 Chrome number: 18 
+Time: 297999 Chrome number: 18 
+Time: 300477 Chrome number: 18 
+Time: 307909 Chrome number: 18 
+Time: 293753 Chrome number: 18 
+Time: 302600 Chrome number: 18 
+Time: 306494 Chrome number: 18 
+Time: 295876 Chrome number: 18 
+Time: 301893 Chrome number: 18 
+Time: 301539 Chrome number: 18 
+Average time: 319358.75 Average color: 18.0
 
 Greedy Algorithm
-Time: 426827 Chrome number: 114 
-Time: 278180 Chrome number: 118 
-Time: 271456 Chrome number: 108 
-Time: 273226 Chrome number: 114 
-Time: 268624 Chrome number: 105 
-Time: 504688 Chrome number: 117 
-Time: 273225 Chrome number: 108 
-Time: 275349 Chrome number: 111 
-Time: 271102 Chrome number: 122 
-Time: 268978 Chrome number: 112 
-Time: 278888 Chrome number: 119 
-Time: 260839 Chrome number: 107 
-Time: 261546 Chrome number: 106 
-Time: 259422 Chrome number: 113 
-Time: 266855 Chrome number: 102 
-Time: 272517 Chrome number: 115 
-Time: 276056 Chrome number: 115 
-Time: 277118 Chrome number: 106 
-Time: 267562 Chrome number: 116 
-Time: 285613 Chrome number: 120 
-Average time: 290903.55 Average color: 112.4
+Time: 220845 Chrome number: 111 
+Time: 204211 Chrome number: 116 
+Time: 216953 Chrome number: 106 
+Time: 220492 Chrome number: 110 
+Time: 216245 Chrome number: 113 
+Time: 223676 Chrome number: 117 
+Time: 214828 Chrome number: 114 
+Time: 204919 Chrome number: 111 
+Time: 196071 Chrome number: 111 
+Time: 187577 Chrome number: 110 
+Time: 218014 Chrome number: 112 
+Time: 206335 Chrome number: 109 
+Time: 220138 Chrome number: 121 
+Time: 211998 Chrome number: 106 
+Time: 213413 Chrome number: 115 
+Time: 179437 Chrome number: 118 
+Time: 172713 Chrome number: 116 
+Time: 174128 Chrome number: 103 
+Time: 191117 Chrome number: 109 
+Time: 203150 Chrome number: 124 
+Average time: 204813.0 Average color: 112.6
 =========================================================
 
 =========================================================
 Graph name: myciel3.col.txt Chrome number: 4 Count of vertices: 11
 Bit Algorithm
-Time: 16280 Chrome number: 4 
-Time: 9910 Chrome number: 4 
-Time: 12033 Chrome number: 4 
-Time: 8848 Chrome number: 4 
-Time: 10971 Chrome number: 4 
-Time: 8848 Chrome number: 4 
-Time: 9202 Chrome number: 4 
-Time: 8848 Chrome number: 4 
-Time: 12033 Chrome number: 4 
-Time: 9909 Chrome number: 4 
-Time: 9201 Chrome number: 4 
-Time: 9202 Chrome number: 4 
-Time: 9202 Chrome number: 4 
-Time: 8494 Chrome number: 4 
-Time: 7432 Chrome number: 4 
-Time: 7786 Chrome number: 4 
-Time: 8140 Chrome number: 4 
-Time: 7786 Chrome number: 4 
-Time: 8140 Chrome number: 4 
-Time: 8494 Chrome number: 4 
-Average time: 9537.95 Average color: 4.0
+Time: 3893 Chrome number: 4 
+Time: 1769 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1061 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1415 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1062 Chrome number: 4 
+Time: 1415 Chrome number: 4 
+Time: 1415 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Time: 1062 Chrome number: 4 
+Time: 1061 Chrome number: 4 
+Time: 1415 Chrome number: 4 
+Time: 1062 Chrome number: 4 
+Time: 1416 Chrome number: 4 
+Average time: 1468.7 Average color: 4.0
 
 Greedy Algorithm
-Time: 14865 Chrome number: 4 
-Time: 6016 Chrome number: 4 
-Time: 7786 Chrome number: 7 
-Time: 5309 Chrome number: 6 
-Time: 5663 Chrome number: 6 
-Time: 6017 Chrome number: 5 
-Time: 5662 Chrome number: 4 
-Time: 7078 Chrome number: 4 
-Time: 6371 Chrome number: 6 
-Time: 6017 Chrome number: 3 
-Time: 6016 Chrome number: 4 
-Time: 7079 Chrome number: 6 
-Time: 5663 Chrome number: 5 
-Time: 5663 Chrome number: 4 
-Time: 5663 Chrome number: 3 
-Time: 6016 Chrome number: 4 
-Time: 5308 Chrome number: 4 
-Time: 5663 Chrome number: 4 
-Time: 6017 Chrome number: 4 
-Time: 9202 Chrome number: 4 
-Average time: 6653.7 Average color: 4.55
+Time: 27960 Chrome number: 4 
+Time: 3539 Chrome number: 4 
+Time: 3539 Chrome number: 6 
+Time: 3185 Chrome number: 6 
+Time: 3186 Chrome number: 5 
+Time: 2831 Chrome number: 6 
+Time: 3185 Chrome number: 7 
+Time: 2831 Chrome number: 5 
+Time: 3185 Chrome number: 7 
+Time: 2831 Chrome number: 5 
+Time: 3186 Chrome number: 4 
+Time: 3185 Chrome number: 6 
+Time: 2832 Chrome number: 7 
+Time: 3185 Chrome number: 4 
+Time: 3186 Chrome number: 5 
+Time: 2831 Chrome number: 4 
+Time: 2832 Chrome number: 6 
+Time: 3185 Chrome number: 5 
+Time: 3185 Chrome number: 4 
+Time: 2831 Chrome number: 6 
+Average time: 4335.5 Average color: 5.3
 =========================================================
 
 =========================================================
 Graph name: myciel4.col.txt Chrome number: 5 Count of vertices: 23
 Bit Algorithm
-Time: 22651 Chrome number: 5 
+Time: 4955 Chrome number: 5 
 Time: 3893 Chrome number: 5 
 Time: 3539 Chrome number: 5 
+Time: 3186 Chrome number: 5 
 Time: 3185 Chrome number: 5 
-Time: 2832 Chrome number: 5 
+Time: 3185 Chrome number: 5 
+Time: 2831 Chrome number: 5 
+Time: 2831 Chrome number: 5 
 Time: 2831 Chrome number: 5 
 Time: 3185 Chrome number: 5 
+Time: 3540 Chrome number: 5 
+Time: 3186 Chrome number: 5 
 Time: 3185 Chrome number: 5 
+Time: 2831 Chrome number: 5 
+Time: 3185 Chrome number: 5 
+Time: 2831 Chrome number: 5 
 Time: 2831 Chrome number: 5 
 Time: 2831 Chrome number: 5 
 Time: 3186 Chrome number: 5 
 Time: 3185 Chrome number: 5 
-Time: 3185 Chrome number: 5 
-Time: 3185 Chrome number: 5 
-Time: 3893 Chrome number: 5 
-Time: 3893 Chrome number: 5 
-Time: 2832 Chrome number: 5 
-Time: 2831 Chrome number: 5 
-Time: 2477 Chrome number: 5 
-Time: 2832 Chrome number: 5 
-Average time: 4123.1 Average color: 5.0
+Average time: 3220.6 Average color: 5.0
 
 Greedy Algorithm
-Time: 47779 Chrome number: 10 
-Time: 12387 Chrome number: 11 
-Time: 10972 Chrome number: 7 
-Time: 11325 Chrome number: 9 
-Time: 10971 Chrome number: 10 
-Time: 11680 Chrome number: 8 
-Time: 10618 Chrome number: 9 
-Time: 10971 Chrome number: 14 
-Time: 10617 Chrome number: 8 
-Time: 11325 Chrome number: 11 
-Time: 10618 Chrome number: 10 
-Time: 10617 Chrome number: 9 
-Time: 10264 Chrome number: 7 
-Time: 11680 Chrome number: 13 
-Time: 10617 Chrome number: 10 
-Time: 10263 Chrome number: 8 
-Time: 10617 Chrome number: 8 
-Time: 10618 Chrome number: 9 
-Time: 10618 Chrome number: 9 
-Time: 11325 Chrome number: 10 
-Average time: 12794.1 Average color: 9.5
+Time: 7786 Chrome number: 9 
+Time: 7078 Chrome number: 9 
+Time: 6724 Chrome number: 8 
+Time: 6017 Chrome number: 8 
+Time: 6370 Chrome number: 9 
+Time: 5663 Chrome number: 7 
+Time: 16988 Chrome number: 8 
+Time: 6371 Chrome number: 8 
+Time: 6370 Chrome number: 8 
+Time: 6017 Chrome number: 8 
+Time: 6371 Chrome number: 8 
+Time: 6370 Chrome number: 9 
+Time: 5662 Chrome number: 8 
+Time: 6371 Chrome number: 10 
+Time: 6371 Chrome number: 13 
+Time: 6016 Chrome number: 9 
+Time: 6017 Chrome number: 8 
+Time: 6017 Chrome number: 5 
+Time: 6017 Chrome number: 9 
+Time: 6371 Chrome number: 12 
+Average time: 6848.35 Average color: 8.65
 =========================================================
 
 =========================================================
 Graph name: myciel5.col.txt Chrome number: 6 Count of vertices: 47
 Bit Algorithm
-Time: 27252 Chrome number: 6 
-Time: 10971 Chrome number: 6 
-Time: 9910 Chrome number: 6 
-Time: 9202 Chrome number: 6 
-Time: 9202 Chrome number: 6 
-Time: 8141 Chrome number: 6 
-Time: 8140 Chrome number: 6 
-Time: 8140 Chrome number: 6 
-Time: 8140 Chrome number: 6 
-Time: 9202 Chrome number: 6 
-Time: 8494 Chrome number: 6 
+Time: 12387 Chrome number: 6 
+Time: 10617 Chrome number: 6 
+Time: 12033 Chrome number: 6 
 Time: 10617 Chrome number: 6 
 Time: 9556 Chrome number: 6 
-Time: 10618 Chrome number: 6 
+Time: 9202 Chrome number: 6 
+Time: 8848 Chrome number: 6 
+Time: 9202 Chrome number: 6 
+Time: 8848 Chrome number: 6 
 Time: 8494 Chrome number: 6 
-Time: 7786 Chrome number: 6 
-Time: 8848 Chrome number: 6 
+Time: 8494 Chrome number: 6 
+Time: 8494 Chrome number: 6 
+Time: 9202 Chrome number: 6 
+Time: 8495 Chrome number: 6 
 Time: 8848 Chrome number: 6 
 Time: 8494 Chrome number: 6 
+Time: 8140 Chrome number: 6 
+Time: 9556 Chrome number: 6 
+Time: 9556 Chrome number: 6 
 Time: 8848 Chrome number: 6 
-Average time: 9945.15 Average color: 6.0
+Average time: 9396.55 Average color: 6.0
 
 Greedy Algorithm
-Time: 51672 Chrome number: 17 
-Time: 23359 Chrome number: 16 
-Time: 22650 Chrome number: 15 
-Time: 23713 Chrome number: 17 
-Time: 21589 Chrome number: 18 
-Time: 23005 Chrome number: 14 
-Time: 21235 Chrome number: 18 
-Time: 21943 Chrome number: 16 
-Time: 94850 Chrome number: 19 
-Time: 25482 Chrome number: 16 
-Time: 21589 Chrome number: 21 
-Time: 31853 Chrome number: 14 
-Time: 22651 Chrome number: 18 
-Time: 23358 Chrome number: 18 
-Time: 23005 Chrome number: 18 
-Time: 23005 Chrome number: 17 
-Time: 22297 Chrome number: 17 
-Time: 1221728 Chrome number: 15 
-Time: 59812 Chrome number: 18 
-Time: 17696 Chrome number: 13 
-Average time: 89824.6 Average color: 16.75
+Time: 41762 Chrome number: 18 
+Time: 21943 Chrome number: 18 
+Time: 12741 Chrome number: 17 
+Time: 11326 Chrome number: 14 
+Time: 11679 Chrome number: 15 
+Time: 11680 Chrome number: 16 
+Time: 11679 Chrome number: 13 
+Time: 21589 Chrome number: 19 
+Time: 13095 Chrome number: 15 
+Time: 11326 Chrome number: 17 
+Time: 11326 Chrome number: 18 
+Time: 12033 Chrome number: 20 
+Time: 11326 Chrome number: 20 
+Time: 10971 Chrome number: 15 
+Time: 11326 Chrome number: 18 
+Time: 10971 Chrome number: 17 
+Time: 11326 Chrome number: 21 
+Time: 11325 Chrome number: 14 
+Time: 11325 Chrome number: 17 
+Time: 12034 Chrome number: 17 
+Average time: 14139.15 Average color: 16.95
 =========================================================
 
 =========================================================
 Graph name: myciel6.col.txt Chrome number: 7 Count of vertices: 95
 Bit Algorithm
-Time: 32915 Chrome number: 7 
-Time: 30083 Chrome number: 7 
-Time: 29375 Chrome number: 7 
-Time: 27606 Chrome number: 7 
-Time: 48841 Chrome number: 7 
-Time: 33977 Chrome number: 7 
-Time: 31145 Chrome number: 7 
-Time: 34330 Chrome number: 7 
-Time: 32914 Chrome number: 7 
-Time: 32561 Chrome number: 7 
-Time: 32915 Chrome number: 7 
-Time: 31145 Chrome number: 7 
-Time: 32560 Chrome number: 7 
-Time: 31853 Chrome number: 7 
-Time: 31498 Chrome number: 7 
-Time: 35392 Chrome number: 7 
-Time: 33268 Chrome number: 7 
-Time: 431073 Chrome number: 7 
-Time: 33976 Chrome number: 7 
+Time: 36100 Chrome number: 7 
+Time: 37161 Chrome number: 7 
 Time: 32207 Chrome number: 7 
-Average time: 52981.7 Average color: 7.0
+Time: 29376 Chrome number: 7 
+Time: 30791 Chrome number: 7 
+Time: 33268 Chrome number: 7 
+Time: 30791 Chrome number: 7 
+Time: 29375 Chrome number: 7 
+Time: 29021 Chrome number: 7 
+Time: 25482 Chrome number: 7 
+Time: 23005 Chrome number: 7 
+Time: 19466 Chrome number: 7 
+Time: 18404 Chrome number: 7 
+Time: 18758 Chrome number: 7 
+Time: 18404 Chrome number: 7 
+Time: 19112 Chrome number: 7 
+Time: 18758 Chrome number: 7 
+Time: 19112 Chrome number: 7 
+Time: 18404 Chrome number: 7 
+Time: 18758 Chrome number: 7 
+Average time: 25287.65 Average color: 7.0
 
 Greedy Algorithm
-Time: 105114 Chrome number: 26 
-Time: 45655 Chrome number: 32 
-Time: 36454 Chrome number: 27 
-Time: 35746 Chrome number: 28 
-Time: 35038 Chrome number: 32 
-Time: 34330 Chrome number: 34 
-Time: 36099 Chrome number: 30 
-Time: 164218 Chrome number: 34 
-Time: 36454 Chrome number: 26 
-Time: 33976 Chrome number: 31 
-Time: 34684 Chrome number: 33 
-Time: 32914 Chrome number: 29 
-Time: 34330 Chrome number: 30 
-Time: 32915 Chrome number: 32 
-Time: 32915 Chrome number: 24 
-Time: 32915 Chrome number: 29 
-Time: 31145 Chrome number: 30 
-Time: 30084 Chrome number: 31 
-Time: 32914 Chrome number: 31 
-Time: 32914 Chrome number: 30 
-Average time: 44540.7 Average color: 29.95
+Time: 24420 Chrome number: 30 
+Time: 20173 Chrome number: 28 
+Time: 21235 Chrome number: 30 
+Time: 18050 Chrome number: 35 
+Time: 17342 Chrome number: 29 
+Time: 16280 Chrome number: 34 
+Time: 16634 Chrome number: 33 
+Time: 16635 Chrome number: 33 
+Time: 16634 Chrome number: 30 
+Time: 16281 Chrome number: 33 
+Time: 15926 Chrome number: 30 
+Time: 15926 Chrome number: 36 
+Time: 15572 Chrome number: 28 
+Time: 15572 Chrome number: 32 
+Time: 14865 Chrome number: 29 
+Time: 15927 Chrome number: 25 
+Time: 15218 Chrome number: 32 
+Time: 15219 Chrome number: 32 
+Time: 15926 Chrome number: 30 
+Time: 15572 Chrome number: 27 
+Average time: 16970.35 Average color: 30.8
 =========================================================
 
 =========================================================
 Graph name: myciel7.col.txt Chrome number: 8 Count of vertices: 191
 Bit Algorithm
-Time: 117855 Chrome number: 8 
-Time: 116086 Chrome number: 8 
-Time: 121394 Chrome number: 8 
-Time: 115024 Chrome number: 8 
-Time: 113254 Chrome number: 8 
-Time: 111838 Chrome number: 8 
-Time: 110423 Chrome number: 8 
-Time: 113962 Chrome number: 8 
-Time: 106884 Chrome number: 8 
-Time: 107591 Chrome number: 8 
-Time: 112192 Chrome number: 8 
-Time: 109007 Chrome number: 8 
-Time: 111838 Chrome number: 8 
-Time: 107238 Chrome number: 8 
-Time: 103698 Chrome number: 8 
-Time: 105468 Chrome number: 8 
-Time: 110777 Chrome number: 8 
-Time: 113962 Chrome number: 8 
-Time: 110423 Chrome number: 8 
-Time: 110069 Chrome number: 8 
-Average time: 111449.15 Average color: 8.0
+Time: 78570 Chrome number: 8 
+Time: 73969 Chrome number: 8 
+Time: 71492 Chrome number: 8 
+Time: 77508 Chrome number: 8 
+Time: 71846 Chrome number: 8 
+Time: 72553 Chrome number: 8 
+Time: 69369 Chrome number: 8 
+Time: 67953 Chrome number: 8 
+Time: 69368 Chrome number: 8 
+Time: 77862 Chrome number: 8 
+Time: 109715 Chrome number: 8 
+Time: 105821 Chrome number: 8 
+Time: 107945 Chrome number: 8 
+Time: 92373 Chrome number: 8 
+Time: 82464 Chrome number: 8 
+Time: 76093 Chrome number: 8 
+Time: 71491 Chrome number: 8 
+Time: 71137 Chrome number: 8 
+Time: 69368 Chrome number: 8 
+Time: 69014 Chrome number: 8 
+Average time: 79295.55 Average color: 8.0
 
 Greedy Algorithm
-Time: 101574 Chrome number: 50 
-Time: 83525 Chrome number: 56 
-Time: 82817 Chrome number: 52 
-Time: 74677 Chrome number: 62 
-Time: 76446 Chrome number: 53 
-Time: 76093 Chrome number: 51 
-Time: 76800 Chrome number: 49 
-Time: 76446 Chrome number: 54 
-Time: 73261 Chrome number: 52 
-Time: 79278 Chrome number: 57 
-Time: 78570 Chrome number: 53 
-Time: 77508 Chrome number: 57 
-Time: 76093 Chrome number: 59 
-Time: 73615 Chrome number: 49 
-Time: 71138 Chrome number: 54 
-Time: 72907 Chrome number: 57 
-Time: 69014 Chrome number: 56 
-Time: 75031 Chrome number: 55 
-Time: 74323 Chrome number: 49 
-Time: 71845 Chrome number: 55 
-Average time: 77048.05 Average color: 54.0
+Time: 62290 Chrome number: 62 
+Time: 44948 Chrome number: 53 
+Time: 45302 Chrome number: 54 
+Time: 41762 Chrome number: 50 
+Time: 43886 Chrome number: 56 
+Time: 39285 Chrome number: 53 
+Time: 39285 Chrome number: 55 
+Time: 38224 Chrome number: 49 
+Time: 37515 Chrome number: 56 
+Time: 36453 Chrome number: 53 
+Time: 36807 Chrome number: 58 
+Time: 36100 Chrome number: 56 
+Time: 35038 Chrome number: 50 
+Time: 35391 Chrome number: 57 
+Time: 34684 Chrome number: 49 
+Time: 33976 Chrome number: 55 
+Time: 34330 Chrome number: 51 
+Time: 41763 Chrome number: 46 
+Time: 34684 Chrome number: 54 
+Time: 36100 Chrome number: 50 
+Average time: 39391.15 Average color: 53.35
+=========================================================
+
+=========================================================
+Graph name: anna.col.txt Chrome number: 11 Count of vertices: 138
+Bit Algorithm
+Time: 67244 Chrome number: 12 
+Time: 60166 Chrome number: 12 
+Time: 60521 Chrome number: 12 
+Time: 61582 Chrome number: 12 
+Time: 62997 Chrome number: 12 
+Time: 41054 Chrome number: 12 
+Time: 38577 Chrome number: 12 
+Time: 36454 Chrome number: 12 
+Time: 36454 Chrome number: 12 
+Time: 35038 Chrome number: 12 
+Time: 36807 Chrome number: 12 
+Time: 43178 Chrome number: 12 
+Time: 35038 Chrome number: 12 
+Time: 34330 Chrome number: 12 
+Time: 34330 Chrome number: 12 
+Time: 35746 Chrome number: 12 
+Time: 34330 Chrome number: 12 
+Time: 33976 Chrome number: 12 
+Time: 34330 Chrome number: 12 
+Time: 32914 Chrome number: 12 
+Average time: 42753.3 Average color: 12.0
+
+Greedy Algorithm
+Time: 35746 Chrome number: 24 
+Time: 35391 Chrome number: 24 
+Time: 30083 Chrome number: 28 
+Time: 27960 Chrome number: 22 
+Time: 25836 Chrome number: 26 
+Time: 26544 Chrome number: 23 
+Time: 24421 Chrome number: 26 
+Time: 24421 Chrome number: 24 
+Time: 26898 Chrome number: 24 
+Time: 24066 Chrome number: 23 
+Time: 23358 Chrome number: 21 
+Time: 22651 Chrome number: 20 
+Time: 22651 Chrome number: 26 
+Time: 22651 Chrome number: 24 
+Time: 22297 Chrome number: 21 
+Time: 24421 Chrome number: 24 
+Time: 26190 Chrome number: 25 
+Time: 29729 Chrome number: 27 
+Time: 30791 Chrome number: 22 
+Time: 30437 Chrome number: 26 
+Average time: 26827.1 Average color: 24.0
+=========================================================
+
+=========================================================
+Graph name: david.col.txt Chrome number: 11 Count of vertices: 87
+Bit Algorithm
+Time: 24066 Chrome number: 12 
+Time: 20881 Chrome number: 12 
+Time: 18757 Chrome number: 12 
+Time: 18049 Chrome number: 12 
+Time: 16988 Chrome number: 12 
+Time: 16988 Chrome number: 12 
+Time: 16634 Chrome number: 12 
+Time: 16280 Chrome number: 12 
+Time: 15572 Chrome number: 12 
+Time: 15926 Chrome number: 12 
+Time: 16634 Chrome number: 12 
+Time: 19112 Chrome number: 12 
+Time: 15926 Chrome number: 12 
+Time: 17696 Chrome number: 12 
+Time: 16988 Chrome number: 12 
+Time: 16634 Chrome number: 12 
+Time: 15927 Chrome number: 12 
+Time: 15218 Chrome number: 12 
+Time: 15572 Chrome number: 12 
+Time: 14865 Chrome number: 12 
+Average time: 17235.65 Average color: 12.0
+
+Greedy Algorithm
+Time: 19819 Chrome number: 23 
+Time: 15219 Chrome number: 24 
+Time: 15218 Chrome number: 23 
+Time: 15218 Chrome number: 23 
+Time: 14510 Chrome number: 21 
+Time: 14156 Chrome number: 23 
+Time: 14157 Chrome number: 23 
+Time: 14157 Chrome number: 23 
+Time: 14156 Chrome number: 20 
+Time: 13803 Chrome number: 19 
+Time: 14157 Chrome number: 22 
+Time: 14157 Chrome number: 20 
+Time: 14157 Chrome number: 22 
+Time: 14157 Chrome number: 26 
+Time: 14157 Chrome number: 26 
+Time: 13803 Chrome number: 26 
+Time: 14157 Chrome number: 20 
+Time: 14510 Chrome number: 20 
+Time: 13803 Chrome number: 25 
+Time: 13803 Chrome number: 21 
+Average time: 14563.7 Average color: 22.5
+=========================================================
+
+=========================================================
+Graph name: homer.col.txt Chrome number: 13 Count of vertices: 561
+Bit Algorithm
+Time: 935761 Chrome number: 15 
+Time: 925498 Chrome number: 15 
+Time: 936116 Chrome number: 15 
+Time: 922313 Chrome number: 15 
+Time: 932576 Chrome number: 15 
+Time: 924082 Chrome number: 15 
+Time: 919482 Chrome number: 15 
+Time: 961598 Chrome number: 15 
+Time: 640239 Chrome number: 15 
+Time: 950626 Chrome number: 15 
+Time: 932577 Chrome number: 15 
+Time: 929745 Chrome number: 15 
+Time: 918419 Chrome number: 15 
+Time: 923728 Chrome number: 15 
+Time: 943901 Chrome number: 15 
+Time: 927975 Chrome number: 15 
+Time: 939301 Chrome number: 15 
+Time: 926205 Chrome number: 15 
+Time: 900016 Chrome number: 15 
+Time: 652626 Chrome number: 15 
+Average time: 902139.2 Average color: 15.0
+
+Greedy Algorithm
+Time: 305786 Chrome number: 47 
+Time: 310741 Chrome number: 40 
+Time: 273579 Chrome number: 47 
+Time: 261546 Chrome number: 47 
+Time: 262254 Chrome number: 48 
+Time: 289152 Chrome number: 46 
+Time: 258361 Chrome number: 44 
+Time: 261193 Chrome number: 46 
+Time: 276765 Chrome number: 46 
+Time: 250928 Chrome number: 45 
+Time: 248097 Chrome number: 45 
+Time: 244204 Chrome number: 50 
+Time: 257299 Chrome number: 53 
+Time: 256945 Chrome number: 49 
+Time: 248097 Chrome number: 54 
+Time: 261193 Chrome number: 46 
+Time: 257653 Chrome number: 42 
+Time: 251282 Chrome number: 44 
+Time: 261900 Chrome number: 42 
+Time: 251637 Chrome number: 45 
+Average time: 264430.6 Average color: 46.3
+=========================================================
+
+=========================================================
+Graph name: flat300_28_0.col.txt Chrome number: 28 Count of vertices: 300
+Bit Algorithm
+Time: 143337 Chrome number: 46 
+Time: 139798 Chrome number: 46 
+Time: 139445 Chrome number: 46 
+Time: 151831 Chrome number: 46 
+Time: 99452 Chrome number: 46 
+Time: 101221 Chrome number: 46 
+Time: 100513 Chrome number: 46 
+Time: 98035 Chrome number: 46 
+Time: 89895 Chrome number: 46 
+Time: 89542 Chrome number: 46 
+Time: 99097 Chrome number: 46 
+Time: 89188 Chrome number: 46 
+Time: 90958 Chrome number: 46 
+Time: 89188 Chrome number: 46 
+Time: 87772 Chrome number: 46 
+Time: 146168 Chrome number: 46 
+Time: 136967 Chrome number: 46 
+Time: 145814 Chrome number: 46 
+Time: 137321 Chrome number: 46 
+Time: 140860 Chrome number: 46 
+Average time: 115820.1 Average color: 46.0
+
+Greedy Algorithm
+Time: 113254 Chrome number: 178 
+Time: 106530 Chrome number: 180 
+Time: 102991 Chrome number: 185 
+Time: 73261 Chrome number: 185 
+Time: 72907 Chrome number: 174 
+Time: 72907 Chrome number: 180 
+Time: 183684 Chrome number: 181 
+Time: 101221 Chrome number: 171 
+Time: 100513 Chrome number: 189 
+Time: 96266 Chrome number: 166 
+Time: 98035 Chrome number: 177 
+Time: 98390 Chrome number: 184 
+Time: 98390 Chrome number: 174 
+Time: 98036 Chrome number: 175 
+Time: 100867 Chrome number: 179 
+Time: 95912 Chrome number: 170 
+Time: 105468 Chrome number: 189 
+Time: 110776 Chrome number: 186 
+Time: 104052 Chrome number: 182 
+Time: 104406 Chrome number: 175 
+Average time: 101893.3 Average color: 179.0
+=========================================================
+
+=========================================================
+Graph name: flat1000_50_0.col.txt Chrome number: 50 Count of vertices: 1000
+Bit Algorithm
+Time: 5664826 Chrome number: 126 
+Time: 1469825 Chrome number: 126 
+Time: 2398154 Chrome number: 126 
+Time: 1377099 Chrome number: 126 
+Time: 1078391 Chrome number: 126 
+Time: 1243317 Chrome number: 126 
+Time: 1171471 Chrome number: 126 
+Time: 2144040 Chrome number: 126 
+Time: 1370374 Chrome number: 126 
+Time: 1020348 Chrome number: 126 
+Time: 1000528 Chrome number: 126 
+Time: 2890456 Chrome number: 126 
+Time: 1153776 Chrome number: 126 
+Time: 1311624 Chrome number: 126 
+Time: 1252873 Chrome number: 126 
+Time: 1912578 Chrome number: 126 
+Time: 2287732 Chrome number: 126 
+Time: 1338521 Chrome number: 126 
+Time: 2777910 Chrome number: 126 
+Time: 1314809 Chrome number: 126 
+Average time: 1808932.6 Average color: 126.0
+
+Greedy Algorithm
+Time: 432489 Chrome number: 598 
+Time: 401698 Chrome number: 614 
+Time: 396035 Chrome number: 599 
+Time: 383648 Chrome number: 605 
+Time: 942839 Chrome number: 611 
+Time: 1363649 Chrome number: 597 
+Time: 419748 Chrome number: 589 
+Time: 418686 Chrome number: 606 
+Time: 427888 Chrome number: 598 
+Time: 373384 Chrome number: 602 
+Time: 372323 Chrome number: 608 
+Time: 369845 Chrome number: 592 
+Time: 354273 Chrome number: 604 
+Time: 382586 Chrome number: 616 
+Time: 367367 Chrome number: 613 
+Time: 371969 Chrome number: 613 
+Time: 360644 Chrome number: 591 
+Time: 369492 Chrome number: 603 
+Time: 366660 Chrome number: 579 
+Time: 354627 Chrome number: 618 
+Average time: 461492.5 Average color: 602.8
+=========================================================
+
+=========================================================
+Graph name: flat1000_60_0.col.txt Chrome number: 60 Count of vertices: 1000
+Bit Algorithm
+Time: 2794897 Chrome number: 125 
+Time: 1232346 Chrome number: 125 
+Time: 1283664 Chrome number: 125 
+Time: 1368958 Chrome number: 125 
+Time: 1217481 Chrome number: 125 
+Time: 1016102 Chrome number: 125 
+Time: 1050077 Chrome number: 125 
+Time: 1079099 Chrome number: 125 
+Time: 1380638 Chrome number: 125 
+Time: 1074851 Chrome number: 125 
+Time: 1029904 Chrome number: 125 
+Time: 1000529 Chrome number: 125 
+Time: 1004776 Chrome number: 125 
+Time: 1548396 Chrome number: 125 
+Time: 1085115 Chrome number: 125 
+Time: 983187 Chrome number: 125 
+Time: 1014331 Chrome number: 125 
+Time: 1191291 Chrome number: 125 
+Time: 1245087 Chrome number: 125 
+Time: 1289680 Chrome number: 125 
+Average time: 1244520.45 Average color: 125.0
+
+Greedy Algorithm
+Time: 368429 Chrome number: 611 
+Time: 356042 Chrome number: 596 
+Time: 356396 Chrome number: 593 
+Time: 343656 Chrome number: 617 
+Time: 342240 Chrome number: 599 
+Time: 342593 Chrome number: 594 
+Time: 337639 Chrome number: 598 
+Time: 340824 Chrome number: 578 
+Time: 343655 Chrome number: 592 
+Time: 354981 Chrome number: 592 
+Time: 340116 Chrome number: 612 
+Time: 300831 Chrome number: 618 
+Time: 265439 Chrome number: 609 
+Time: 260839 Chrome number: 625 
+Time: 255883 Chrome number: 613 
+Time: 253053 Chrome number: 623 
+Time: 288090 Chrome number: 600 
+Time: 288798 Chrome number: 607 
+Time: 258007 Chrome number: 595 
+Time: 294106 Chrome number: 601 
+Average time: 314580.85 Average color: 603.65
+=========================================================
+
+=========================================================
+Graph name: flat1000_76_0.col.txt Chrome number: 76 Count of vertices: 1000
+Bit Algorithm
+Time: 954519 Chrome number: 122 
+Time: 1210757 Chrome number: 122 
+Time: 966552 Chrome number: 122 
+Time: 1380992 Chrome number: 122 
+Time: 1295697 Chrome number: 122 
+Time: 1810649 Chrome number: 122 
+Time: 2550340 Chrome number: 122 
+Time: 2402401 Chrome number: 122 
+Time: 995220 Chrome number: 122 
+Time: 1063172 Chrome number: 122 
+Time: 1735264 Chrome number: 122 
+Time: 2565558 Chrome number: 122 
+Time: 1506987 Chrome number: 122 
+Time: 1342768 Chrome number: 122 
+Time: 1185982 Chrome number: 122 
+Time: 1064942 Chrome number: 122 
+Time: 1286496 Chrome number: 122 
+Time: 1317640 Chrome number: 122 
+Time: 1710490 Chrome number: 122 
+Time: 1489291 Chrome number: 122 
+Average time: 1491785.85 Average color: 122.0
+
+Greedy Algorithm
+Time: 498318 Chrome number: 615 
+Time: 428595 Chrome number: 600 
+Time: 494424 Chrome number: 608 
+Time: 419039 Chrome number: 612 
+Time: 425765 Chrome number: 604 
+Time: 404883 Chrome number: 612 
+Time: 938593 Chrome number: 617 
+Time: 408422 Chrome number: 620 
+Time: 394265 Chrome number: 590 
+Time: 387541 Chrome number: 611 
+Time: 397097 Chrome number: 610 
+Time: 391434 Chrome number: 603 
+Time: 393204 Chrome number: 596 
+Time: 403821 Chrome number: 613 
+Time: 395328 Chrome number: 606 
+Time: 392496 Chrome number: 600 
+Time: 394974 Chrome number: 623 
+Time: 385418 Chrome number: 614 
+Time: 389311 Chrome number: 598 
+Time: 391788 Chrome number: 595 
+Average time: 436735.8 Average color: 607.35
 =========================================================

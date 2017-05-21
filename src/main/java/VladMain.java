@@ -8,12 +8,20 @@ public class VladMain {
     static {
         graphs.add(new DimacsGraph("zeroin.i.2.col.txt", 30));
         graphs.add(new DimacsGraph("r250.5.col.txt", 65));
+        graphs.add(new DimacsGraph("r1000.5.col.txt", 234));
         graphs.add(new DimacsGraph("le450_5d.col.txt", 5));
         graphs.add(new DimacsGraph("myciel3.col.txt", 4));
         graphs.add(new DimacsGraph("myciel4.col.txt", 5));
         graphs.add(new DimacsGraph("myciel5.col.txt", 6));
         graphs.add(new DimacsGraph("myciel6.col.txt", 7));
         graphs.add(new DimacsGraph("myciel7.col.txt", 8));
+        graphs.add(new DimacsGraph("anna.col.txt", 11));
+        graphs.add(new DimacsGraph("david.col.txt", 11));
+        graphs.add(new DimacsGraph("homer.col.txt", 13));
+        graphs.add(new DimacsGraph("flat300_28_0.col.txt", 28));
+        graphs.add(new DimacsGraph("flat1000_50_0.col.txt", 50));
+        graphs.add(new DimacsGraph("flat1000_60_0.col.txt", 60));
+        graphs.add(new DimacsGraph("flat1000_76_0.col.txt", 76));
     }
 
     public static void main(String[] args) {
