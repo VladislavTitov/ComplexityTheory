@@ -13,6 +13,8 @@ public class GraphReader {
      */
     private int[][] graphAdjacency;
 
+    private int verticesCount;
+
     public GraphReader(String path) {
 
         try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(path)))){
@@ -25,7 +27,7 @@ public class GraphReader {
             while (currentString != null && currentString.charAt(0) == 'p'){
                 currentString = currentString.substring(2);
                 currentString = currentString.substring(currentString.indexOf(' ') + 1);
-                vertexCount = Integer.valueOf(currentString.substring(0, currentString.indexOf(' ')));
+                verticesCount = vertexCount = Integer.valueOf(currentString.substring(0, currentString.indexOf(' ')));
                 graph = new int[vertexCount][vertexCount];
                 graphAdjacency = new int[vertexCount][vertexCount];
                 System.out.println(vertexCount);
@@ -58,5 +60,9 @@ public class GraphReader {
 
     public int[][] getGraphAdjacency() {
         return graphAdjacency;
+    }
+
+    public int getVerticesCount() {
+        return verticesCount;
     }
 }

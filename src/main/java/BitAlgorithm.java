@@ -9,12 +9,30 @@ public class BitAlgorithm {
     private Set<Integer> v;
     private List<Set<Integer>> sets;
     private int[][] graph;
+    private long executingTime;
 
     public void execute(int[][] graph){
-        this.graph = graph;
+        this.graph = copyGraph(graph);
         prepare();
+        long startTime = System.nanoTime();
         process();
-        showGeneralOutput();
+        long finishTime = System.nanoTime();
+        MyLogger.log("Time: ");
+        executingTime = finishTime - startTime;
+        MyLogger.logTime(executingTime);
+        MyLogger.append(" ");
+        MyLogger.log("Chrome number: " + k + " ");
+        MyLogger.newLine();
+    }
+
+    private int[][] copyGraph(int[][] graph){
+        int[][] newGraph = new int[graph.length][graph.length];
+        for (int i = 0; i < graph.length; i++) {
+            for (int j = 0; j < graph.length; j++) {
+                newGraph[i][j] = graph[i][j];
+            }
+        }
+        return newGraph;
     }
 
     private void prepare(){
@@ -85,15 +103,11 @@ public class BitAlgorithm {
         System.out.println();
     }*/
 
-    private void showGeneralOutput() {
-        System.out.println("____General output_____");
-        System.out.println();
-        System.out.println("k = " + k);
-        System.out.println();
-        System.out.println("v = " + v);
-        System.out.println();
-        System.out.print("sets = ");
-        sets.forEach(s -> System.out.print(s.toString() + " "));
-        System.out.println();
+    public int getK() {
+        return k;
+    }
+
+    public long getExecutingTime() {
+        return executingTime;
     }
 }
